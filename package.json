@@ -1,0 +1,29 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "burger eating app",
+  "main": "slideshow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mason2232/Burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Billy  C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mason2232/Burger/issues"
+  },
+  "homepage": "https://github.com/mason2232/Burger#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "init": "^0.1.2",
+    "method-override": "^2.3.6",
+    "mysql": "^2.11.1"
+  }
+}
